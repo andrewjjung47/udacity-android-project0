@@ -1,1 +1,3 @@
-# udacity-android-project1
+# udacity-android-project0
+
+Android app that launches all of my other Nanodegree project apps.
